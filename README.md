@@ -50,3 +50,4 @@ First Header | Second Header | Third Header
 ------------ | ------------- | -------------
 Content from cell 1 | Content from cell 2 | content from cell 3
 Content in the first column | Content in the second column | content in the third column
+Content 1st | Content 2 | Content 3
