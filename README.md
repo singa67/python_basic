@@ -43,3 +43,10 @@ As Kanye West said:
 
 I think you should use an
 `<addr>` element here instead.
+
+
+# python without syntax
+
+def foo():
+    if not bar:
+        return True
