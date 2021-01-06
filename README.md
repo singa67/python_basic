@@ -29,8 +29,7 @@ Format: ![Alt Text](url)
 
 # Links
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+[Google](http://google.com)
 
 # Block quotes
 
