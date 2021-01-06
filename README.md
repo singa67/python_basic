@@ -3,10 +3,4 @@
 ## Small Header
 ### header
 #### sub
-
-
-text
-
-
-
-small text
+*This text will be italic*
