@@ -44,7 +44,7 @@ As Kanye West said:
 I think you should use an
 `<addr>` element here instead.
 
-
+![Hanuman] (https://akm-img-a-in.tosshub.com/indiatoday/hanumanstory_647_042216105140.jpg?Vzg3M7KBY.fYtcs5h6EhQEZTU7JMPDJ6&size=1200:675)
 # python without syntax
 
 def foo():
