@@ -48,5 +48,5 @@ I think you should use an
 # tables
 First Header | Second Header
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Content from cell 1 | Content from cell 2 | content from cell 3
+Content in the first column | Content in the second column | content in the third column
