@@ -46,7 +46,7 @@ I think you should use an
 
 ![Hanuman](https://i1.wp.com/www.wordzz.com/wp-content/uploads/2016/12/Hanuman.jpeg?fit=800%2C600&ssl=1)
 # tables
-First Header | Second Header
------------- | -------------
+First Header | Second Header | Third Header
+------------ | ------------- | -------------
 Content from cell 1 | Content from cell 2 | content from cell 3
 Content in the first column | Content in the second column | content in the third column
